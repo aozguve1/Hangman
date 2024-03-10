@@ -6,5 +6,5 @@ This project is a simple implementation of the classic Hangman game built with P
 - tkinter library
 
 ## Demo Gameplay
-[![Hangmaan Game Gameplay](gameplay.gif)
+![Hangmaan Game Gameplay](gameplay.gif)
 
